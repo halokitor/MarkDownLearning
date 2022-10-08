@@ -98,13 +98,13 @@ Try to put a blank line before...
 > [link](https://www.example.com/my%20great%20page)  
 > `https://github.com`
 ## 应用类型连接
-> [hobbit-hole][1]  
-> [1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle  
+[hobbit-hole][1]  
+[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle  
 > 连接到[代码语法](#代码语法)
 ## 图片语法
 > ![Farmer](../images/farmer.png) 
     
-    图片添加连接  
+    图片添加链接
 
 > [![Farmer](../images/farmer.png)](https://github.com/)
 ## 转义字符语法
@@ -143,7 +143,7 @@ Indent paragraphs to include them in the footnote.
 Add as many paragraphs as you like.
 ```
 ## 标题编号连接
-### My Great Heading {#custom-id}
+### My Great Heading {#代码语法}
 ## 定义列表
 First Term  
 : This is the definition of the first term.
