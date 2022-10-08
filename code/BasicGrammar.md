@@ -98,13 +98,13 @@ Try to put a blank line before...
 > [link](https://www.example.com/my%20great%20page)  
 > `https://github.com`
 ## 应用类型连接
-> [hobbit-hole][1]  
-> [1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle  
+[hobbit-hole][1]  
+[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle  
 > 连接到[代码语法](#代码语法)
 ## 图片语法
 > ![Farmer](../images/farmer.png) 
     
-    图片添加连接  
+    图片添加链接
 
 > [![Farmer](../images/farmer.png)](https://github.com/)
 ## 转义字符语法
@@ -143,7 +143,7 @@ Indent paragraphs to include them in the footnote.
 Add as many paragraphs as you like.
 ```
 ## 标题编号连接
-### My Great Heading {#custom-id}
+### My Great Heading {#代码语法}
 ## 定义列表
 First Term  
 : This is the definition of the first term.
@@ -165,8 +165,11 @@ Second Term
 $$
 \frac{\partial y}{\partial x} = x + 2\sqrt{a}x 
 $$
-$\theta=x^2$
+$$\theta=x^2$$
 ## 名词符号
-$H~2~O$,$X^2$,==HighLight Text==
+$H_2O$  
+$X^2$  
+<mark>HighLight Text</mark>  
+<font color = red>**Color Text**</font>
 ## 使用HTML语言嵌入内容
-<iframe src="//player.bilibili.com/player.html?aid=327623069&bvid=BV1JA411h7Gw&cid=171385214&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=327623069&bvid=BV1JA411h7Gw&cid=171385214&page=1"></frame>
