@@ -167,8 +167,9 @@ $$
 $$
 $$\theta=x^2$$
 ## 名词符号
-$$H~2~O$$
-$$X^2$$
-==HighLight Text==
+$H_2O$  
+$X^2$  
+<mark>HighLight Text</mark>  
+<font color = red>**Color Text**</font>
 ## 使用HTML语言嵌入内容
-<iframe src="//player.bilibili.com/player.html?aid=327623069&bvid=BV1JA411h7Gw&cid=171385214&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=327623069&bvid=BV1JA411h7Gw&cid=171385214&page=1"></frame>
